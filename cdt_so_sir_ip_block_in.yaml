@@ -4,3 +4,21 @@
   reason: Automated blocklist update for Security Incident Response
   security_incident: SIR0001
   service_request: CHRQ1001
+- date: '2024-08-12'
+  expiry_date: '2024-09-12'
+  ip: 194.109.6.66
+  reason: Automated blocklist update for Security Incident Response
+  security_incident: SIR0002
+  service_request: CHRQ1002
+- date: '2024-08-12'
+  expiry_date: '2024-09-12'
+  ip: 194.109.9.99
+  reason: Automated blocklist update for Security Incident Response
+  security_incident: SIR0002
+  service_request: CHRQ1002
+- date: '2024-08-12'
+  expiry_date: '2024-09-12'
+  ip: 8.8.8.8
+  reason: Automated blocklist update for Security Incident Response
+  security_incident: SIR0002
+  service_request: CHRQ1002
